@@ -498,6 +498,20 @@
     "url": "/components/untitled.html"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Balance Card/Chart",
+    "category": "Embeddables / Balance Card / Chart",
+    "url": "/embeddables/balance-card/chart.html#search-178ba8f0-ba42-11ed-8879-354410020dcd"
+  },
+  {
+    "text": "Chart",
+    "type": "pageTitle",
+    "pageName": "Balance Card/Chart",
+    "category": "Embeddables / Balance Card / Chart",
+    "url": "/embeddables/balance-card/chart.html"
+  },
+  {
     "text": "Usage",
     "type": "sectionHeader",
     "pageName": "Design tokens",
@@ -608,6 +622,20 @@
     "pageName": "Button",
     "category": "Components / Button",
     "url": "/components/button/design.html"
+  },
+  {
+    "text": "Embeddables",
+    "type": "groupTitle",
+    "pageName": "Embeddables",
+    "category": "Embeddables",
+    "url": "/embeddables/balance-card/chart.html"
+  },
+  {
+    "text": "Balance Card",
+    "type": "groupTitle",
+    "pageName": "Balance Card",
+    "category": "Embeddables / Balance Card",
+    "url": "/embeddables/balance-card/chart.html"
   },
   {
     "text": "Resources",
