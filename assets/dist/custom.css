@@ -1,0 +1,44 @@
+
+
+:root {
+    /* =========================== */
+    /* "Native" theme configuration */
+    /* =========================== */
+
+    
+    --fontFamily: Inter, Arial, sans-serif;
+    
+    --colorAccent: #4d94ffff;
+    --colorAccentAlt: #ffffffff;
+    
+    --contentMaxWidth: 756px;
+    
+    --topNavHeight: 68px;
+    --logoHeight: 28px;
+    
+    --pageHeaderBackground: #0066ffff;
+}
+
+ 
+.side-navigation-wrapper {
+    --sideNavBackground: #ffffffff !important;
+}
+
+ 
+#header {
+    --topNavBackground: #004dbfff !important;
+    --topNavBorderColor: #004dbfff !important;
+}
+
+/* Advanced theme configuration */
+:root {
+  
+}
+
+
+
+ /* Custom CSS overrides */
+body,
+html {
+
+}
