@@ -512,6 +512,27 @@
     "url": "/embeddables/balance-card/chart.html"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Mobile App Components/Card",
+    "category": "Embeddables / Mobile App Components / Card",
+    "url": "/embeddables/mobile-app-components/card.html#search-c7805ed0-bab1-11ed-b06f-31a9804d6264"
+  },
+  {
+    "text": "Card",
+    "type": "pageTitle",
+    "pageName": "Mobile App Components/Card",
+    "category": "Embeddables / Mobile App Components / Card",
+    "url": "/embeddables/mobile-app-components/card.html"
+  },
+  {
+    "text": "Checking",
+    "type": "pageTitle",
+    "pageName": "Mobile App Components/Checking",
+    "category": "Embeddables / Mobile App Components / Checking",
+    "url": "/embeddables/mobile-app-components/checking.html"
+  },
+  {
     "text": "Usage",
     "type": "sectionHeader",
     "pageName": "Design tokens",
@@ -636,6 +657,13 @@
     "pageName": "Balance Card",
     "category": "Embeddables / Balance Card",
     "url": "/embeddables/balance-card/chart.html"
+  },
+  {
+    "text": "Mobile App Components",
+    "type": "groupTitle",
+    "pageName": "Mobile App Components",
+    "category": "Embeddables / Mobile App Components",
+    "url": "/embeddables/mobile-app-components/card.html"
   },
   {
     "text": "Resources",
