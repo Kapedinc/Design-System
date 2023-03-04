@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="gray_000">#fff8f9fa</color>
+    <color name="gray_100">#fff1f3f5</color>
+    <color name="gray_200">#ffe9ecef</color>
+    <color name="gray_300">#ffdee2e6</color>
+    <color name="gray_400">#ffced4da</color>
+    <color name="gray_500">#ffadb5bd</color>
+    <color name="gray_600">#ff868e96</color>
+    <color name="gray_700">#ff495057</color>
+    <color name="gray_800">#ff343a40</color>
+    <color name="gray_900">#ff212529</color>
+    <color name="black">#ff000000</color>
+    <color name="primary_100">#fff2f7ff</color>
+    <color name="primary_200">#ffbfd9ff</color>
+    <color name="primary_300">#ff99c2ff</color>
+    <color name="primary_400">#ff4d94ff</color>
+    <color name="primary_500">#ff0066ff</color>
+    <color name="primary_600">#ff004dbf</color>
+    <color name="primary_700">#ff00327d</color>
+    <color name="red_100">#fffff5f5</color>
+    <color name="red_200">#ffffe3e3</color>
+    <color name="red_300">#ffff8787</color>
+    <color name="red_400">#ffff6b6b</color>
+    <color name="red_500">#fffa5252</color>
+    <color name="red_600">#fff03e3e</color>
+    <color name="red_700">#ffc92a2a</color>
+    <color name="orange_100">#fffff4e6</color>
+    <color name="orange_200">#ffffe8cc</color>
+    <color name="orange_300">#ffffc078</color>
+    <color name="orange_400">#ffffa94d</color>
+    <color name="orange_500">#ffff922b</color>
+    <color name="orange_600">#fff76707</color>
+    <color name="orange_700">#ffd9480f</color>
+    <color name="green_100">#ffebfbee</color>
+    <color name="green_200">#ffd3f9d8</color>
+    <color name="green_300">#ff8ce99a</color>
+    <color name="green_400">#ff69db7c</color>
+    <color name="green_500">#ff51cf66</color>
+    <color name="green_600">#ff37b24d</color>
+    <color name="green_700">#ff2b8a3e</color>
+
+
+</resources>
