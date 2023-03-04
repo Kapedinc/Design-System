@@ -43,6 +43,10 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/embeddables/balance-card/chart.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/resources/design-tokens.html</loc>
             <changefreq>weekly</changefreq>
         </url>
