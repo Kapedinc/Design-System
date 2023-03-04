@@ -1,0 +1,336 @@
+.typographyTextRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextSRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXsRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 14px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextLRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXlRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyText2xlRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyText3xlRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyText4xlRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextSMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXsMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 14px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextLMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXlMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyText2xlMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyText3xlMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyText4xlMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextSemiBold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextSSemiBold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXsSemiBold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 14px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextLSemiBold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXlSemiBold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyText2xlSemiBold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyText3xlSemiBold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyText4xlSemiBold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
