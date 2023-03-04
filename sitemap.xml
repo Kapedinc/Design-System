@@ -47,6 +47,14 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/embeddables/mobile-app-components/card.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/embeddables/mobile-app-components/checking.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/resources/design-tokens.html</loc>
             <changefreq>weekly</changefreq>
         </url>
