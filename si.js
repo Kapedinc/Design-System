@@ -1,11 +1,25 @@
 
   const FuseSearchData = [
   {
-    "text": "When we designed the first KAPED OS in 2020, we wanted to create the best digital experience possible. We sought to create efficient and delightful moments for our users. Over time, our design systems have evolved -- but our core goal remains unchanged: to be beautiful in every single instance. What does \"beautiful\" mean? To us, it means being fast and efficient; making joyous experiences; working consistently; finding artistry; and going above expectations. Beauty is central to our mission, inspiring us to challenge ourselves and unlock what's possible. Our work blends art and product design together to solve problems, trigger emotions, and reach beyond imagination. Our design language connects all elements of KAPED’s diverse offerings -- from payments to issuing -- in an unconventional yet consistent manner. At the heart of every engineering solution we build lies a commitment to beauty.",
+    "text": "When we designed the first KAPED OS in 2020, we wanted to create the best digital experience possible. We sought to create efficient and delightful moments for our users. Over time, our design systems have evolved -- but our core goal remains unchanged: to be beautiful in every single instance. ",
     "type": "contentBlock",
     "pageName": "Introduction",
     "category": "Introduction",
-    "url": "/introduction.html#search-85dfaa50-ba19-11ed-8879-354410020dcd"
+    "url": "/introduction.html#search-8f45d460-51ed-11ec-9e6d-bdf95c8a8921"
+  },
+  {
+    "text": "What does \"beautiful\" mean? To us, it means being fast and efficient; making joyous experiences; working consistently; finding artistry; and going above expectations. Beauty is central to our mission, inspiring us to challenge ourselves and unlock what's possible. ",
+    "type": "contentBlock",
+    "pageName": "Introduction",
+    "category": "Introduction",
+    "url": "/introduction.html#search-89eed650-caf6-11ed-9b14-7f394e79ec06"
+  },
+  {
+    "text": "Our work blends art and product design together to solve problems, trigger emotions, and reach beyond imagination. Our design language connects all elements of KAPED’s diverse offerings -- from payments to issuing -- in an unconventional yet consistent manner. At the heart of every engineering solution we build lies a commitment to beauty.",
+    "type": "contentBlock",
+    "pageName": "Introduction",
+    "category": "Introduction",
+    "url": "/introduction.html#search-91a700c0-caf6-11ed-9b14-7f394e79ec06"
   },
   {
     "text": "",
@@ -22,13 +36,6 @@
     "url": "/introduction.html#search-b3d78e20-4d30-11ec-8ce5-cb0f56bcf344"
   },
   {
-    "text": "What do users need to know to get started?",
-    "type": "contentBlock",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-bf8b0210-4d30-11ec-8ce5-cb0f56bcf344"
-  },
-  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Introduction",
@@ -36,7 +43,7 @@
     "url": "/introduction.html#search-38bef170-4c5d-11ec-8da3-557eed56e2dd"
   },
   {
-    "text": "To guide users to other sections of your documentation, use a Shortcut block:",
+    "text": "Use these shortcuts to quickly find what you are looking for:",
     "type": "contentBlock",
     "pageName": "Introduction",
     "category": "Introduction",
@@ -85,11 +92,18 @@
     "url": "/introduction.html"
   },
   {
-    "text": "Add your own overview here.",
+    "text": "We give our users a full library of objects they can use in their instance out of the box:",
     "type": "contentBlock",
     "pageName": "Overview",
     "category": "Foundations / Overview",
     "url": "/foundations/overview.html#search-a2586450-4bad-11ec-8f5e-29e732ba669c"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Overview",
+    "category": "Foundations / Overview",
+    "url": "/foundations/overview.html#search-7c971b90-bded-11ed-8f43-77cdf23dd5df"
   },
   {
     "text": "",
@@ -113,7 +127,7 @@
     "url": "/foundations/overview.html"
   },
   {
-    "text": "Secondary",
+    "text": "Accent",
     "type": "sectionHeader",
     "pageName": "Color",
     "category": "Foundations / Color",
@@ -127,7 +141,7 @@
     "url": "/foundations/color.html#search-65ede5a0-4c5a-11ec-8da3-557eed56e2dd"
   },
   {
-    "text": "Accent",
+    "text": "Secondary",
     "type": "sectionHeader",
     "pageName": "Color",
     "category": "Foundations / Color",
@@ -199,44 +213,44 @@
   {
     "text": "Icons",
     "type": "sectionHeader",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-7b7542c0-4d44-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Iconography/Alpha",
+    "category": "Foundations / Iconography / Alpha",
+    "url": "/foundations/iconography/alpha.html#search-7b7542c0-4d44-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "Add assets from Supernova:",
     "type": "contentBlock",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-7e49dc00-4d43-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Iconography/Alpha",
+    "category": "Foundations / Iconography / Alpha",
+    "url": "/foundations/iconography/alpha.html#search-7e49dc00-4d43-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-9669dab0-4d43-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Iconography/Alpha",
+    "category": "Foundations / Iconography / Alpha",
+    "url": "/foundations/iconography/alpha.html#search-9669dab0-4d43-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "Or add assets directly from Figma:",
     "type": "contentBlock",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-71f96f50-4d44-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Iconography/Alpha",
+    "category": "Foundations / Iconography / Alpha",
+    "url": "/foundations/iconography/alpha.html#search-71f96f50-4d44-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-5aca8760-4d44-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Iconography/Alpha",
+    "category": "Foundations / Iconography / Alpha",
+    "url": "/foundations/iconography/alpha.html#search-5aca8760-4d44-11ec-8ce5-cb0f56bcf344"
   },
   {
-    "text": "Iconography",
+    "text": "Alpha",
     "type": "pageTitle",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html"
+    "pageName": "Iconography/Alpha",
+    "category": "Foundations / Iconography / Alpha",
+    "url": "/foundations/iconography/alpha.html"
   },
   {
     "text": "Grid",
@@ -272,6 +286,13 @@
     "pageName": "Layout",
     "category": "Foundations / Layout",
     "url": "/foundations/layout.html"
+  },
+  {
+    "text": "Shadow",
+    "type": "pageTitle",
+    "pageName": "Shadow",
+    "category": "Foundations / Shadow",
+    "url": "/foundations/shadow.html"
   },
   {
     "text": "Design",
@@ -449,18 +470,11 @@
     "url": "/components/button/code.html#search-76ff6960-5126-11ec-9e6d-bdf95c8a8921"
   },
   {
-    "text": "",
+    "text": "  \"dependencies\": {\n    \"@emotion/react\": \"^11.10.4\",\n    \"@emotion/styled\": \"^11.10.4\",\n    \"@mui/icons-material\": \"^5.11.11\",\n    \"@mui/lab\": \"^5.0.0-alpha.102\",\n    \"@mui/material\": \"^5.10.5\",",
     "type": "contentBlock",
     "pageName": "Button/Code",
     "category": "Components / Button / Code",
     "url": "/components/button/code.html#search-8a9cc620-5126-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Button/Code",
-    "category": "Components / Button / Code",
-    "url": "/components/button/code.html#search-80001960-5126-11ec-9e6d-bdf95c8a8921"
   },
   {
     "text": "Storybook story",
@@ -486,51 +500,303 @@
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Untitled",
-    "category": "Components / Untitled",
-    "url": "/components/untitled.html#search-202783d0-ba1a-11ed-8879-354410020dcd"
+    "pageName": "Mobile Components/Cards",
+    "category": "Components / Mobile Components / Cards",
+    "url": "/components/mobile-components/cards.html#search-e805a770-bbdb-11ed-a6bf-558662b32f7d"
   },
   {
-    "text": "Untitled",
+    "text": "",
+    "type": "sectionHeader",
+    "pageName": "Mobile Components/Cards",
+    "category": "Components / Mobile Components / Cards",
+    "url": "/components/mobile-components/cards.html#search-85d6c430-bbdb-11ed-a6bf-558662b32f7d"
+  },
+  {
+    "text": "Cards",
     "type": "pageTitle",
-    "pageName": "Untitled",
-    "category": "Components / Untitled",
-    "url": "/components/untitled.html"
+    "pageName": "Mobile Components/Cards",
+    "category": "Components / Mobile Components / Cards",
+    "url": "/components/mobile-components/cards.html"
+  },
+  {
+    "text": "/",
+    "type": "contentBlock",
+    "pageName": "Mobile Components/Bars",
+    "category": "Components / Mobile Components / Bars",
+    "url": "/components/mobile-components/bars.html#search-024ac480-bbe6-11ed-a6bf-558662b32f7d"
+  },
+  {
+    "text": "Bars",
+    "type": "pageTitle",
+    "pageName": "Mobile Components/Bars",
+    "category": "Components / Mobile Components / Bars",
+    "url": "/components/mobile-components/bars.html"
+  },
+  {
+    "text": "List Rows",
+    "type": "pageTitle",
+    "pageName": "Mobile Components/List Rows",
+    "category": "Components / Mobile Components / List Rows",
+    "url": "/components/mobile-components/list-rows.html"
+  },
+  {
+    "text": "Input Fields",
+    "type": "pageTitle",
+    "pageName": "Mobile Components/Input Fields",
+    "category": "Components / Mobile Components / Input Fields",
+    "url": "/components/mobile-components/input-fields.html"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Balance Card/Chart",
-    "category": "Embeddables / Balance Card / Chart",
-    "url": "/embeddables/balance-card/chart.html#search-178ba8f0-ba42-11ed-8879-354410020dcd"
+    "pageName": "Mobile Components/Icons",
+    "category": "Components / Mobile Components / Icons",
+    "url": "/components/mobile-components/icons.html#search-ffca6391-bbd7-11ed-a6bf-558662b32f7d"
   },
   {
-    "text": "Chart",
+    "text": "Icons",
     "type": "pageTitle",
-    "pageName": "Balance Card/Chart",
-    "category": "Embeddables / Balance Card / Chart",
-    "url": "/embeddables/balance-card/chart.html"
+    "pageName": "Mobile Components/Icons",
+    "category": "Components / Mobile Components / Icons",
+    "url": "/components/mobile-components/icons.html"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Mobile App Components/Card",
-    "category": "Embeddables / Mobile App Components / Card",
-    "url": "/embeddables/mobile-app-components/card.html#search-c7805ed0-bab1-11ed-b06f-31a9804d6264"
+    "pageName": "Menu/Design",
+    "category": "Components / Menu / Design",
+    "url": "/components/menu/design.html#search-7c3676e0-c00f-11ed-b741-77e5e1f36461"
   },
   {
-    "text": "Card",
-    "type": "pageTitle",
-    "pageName": "Mobile App Components/Card",
-    "category": "Embeddables / Mobile App Components / Card",
-    "url": "/embeddables/mobile-app-components/card.html"
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Menu/Design",
+    "category": "Components / Menu / Design",
+    "url": "/components/menu/design.html#search-c7c17420-c00f-11ed-b741-77e5e1f36461"
   },
   {
-    "text": "Checking",
+    "text": "Anatomy",
+    "type": "sectionHeader",
+    "pageName": "Menu/Design",
+    "category": "Components / Menu / Design",
+    "url": "/components/menu/design.html#search-c81efd70-c00f-11ed-b741-77e5e1f36461"
+  },
+  {
+    "text": "Design",
     "type": "pageTitle",
-    "pageName": "Mobile App Components/Checking",
-    "category": "Embeddables / Mobile App Components / Checking",
-    "url": "/embeddables/mobile-app-components/checking.html"
+    "pageName": "Menu/Design",
+    "category": "Components / Menu / Design",
+    "url": "/components/menu/design.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Menu/Usage",
+    "category": "Components / Menu / Usage",
+    "url": "/components/menu/usage.html#search-b1d54561-c00f-11ed-b741-77e5e1f36461"
+  },
+  {
+    "text": "Usage",
+    "type": "pageTitle",
+    "pageName": "Menu/Usage",
+    "category": "Components / Menu / Usage",
+    "url": "/components/menu/usage.html"
+  },
+  {
+    "text": "Code",
+    "type": "pageTitle",
+    "pageName": "Menu/Code",
+    "category": "Components / Menu / Code",
+    "url": "/components/menu/code.html"
+  },
+  {
+    "text": "Anatomy",
+    "type": "sectionHeader",
+    "pageName": "Badge/Design",
+    "category": "Components / Badge / Design",
+    "url": "/components/badge/design.html#search-793aeea0-c387-11ed-a1db-5bd4e5647a39"
+  },
+  {
+    "text": "Design",
+    "type": "pageTitle",
+    "pageName": "Badge/Design",
+    "category": "Components / Badge / Design",
+    "url": "/components/badge/design.html"
+  },
+  {
+    "text": "Usage",
+    "type": "pageTitle",
+    "pageName": "Badge/Usage",
+    "category": "Components / Badge / Usage",
+    "url": "/components/badge/usage.html"
+  },
+  {
+    "text": "Code",
+    "type": "pageTitle",
+    "pageName": "Badge/Code",
+    "category": "Components / Badge / Code",
+    "url": "/components/badge/code.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Form/Design",
+    "category": "Components / Form / Design",
+    "url": "/components/form/design.html#search-c0bff590-c3eb-11ed-be0b-633b8623815e"
+  },
+  {
+    "text": "Anatomy",
+    "type": "sectionHeader",
+    "pageName": "Form/Design",
+    "category": "Components / Form / Design",
+    "url": "/components/form/design.html#search-d6b56c70-c7b7-11ed-a6d5-3df855b6f60c"
+  },
+  {
+    "text": "Design",
+    "type": "pageTitle",
+    "pageName": "Form/Design",
+    "category": "Components / Form / Design",
+    "url": "/components/form/design.html"
+  },
+  {
+    "text": "Usage",
+    "type": "pageTitle",
+    "pageName": "Form/Usage",
+    "category": "Components / Form / Usage",
+    "url": "/components/form/usage.html"
+  },
+  {
+    "text": "Code",
+    "type": "pageTitle",
+    "pageName": "Form/Code",
+    "category": "Components / Form / Code",
+    "url": "/components/form/code.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Graph/Design",
+    "category": "Components / Graph / Design",
+    "url": "/components/graph/design.html#search-ef495a90-c3f1-11ed-be0b-633b8623815e"
+  },
+  {
+    "text": "Design",
+    "type": "pageTitle",
+    "pageName": "Graph/Design",
+    "category": "Components / Graph / Design",
+    "url": "/components/graph/design.html"
+  },
+  {
+    "text": "Usage",
+    "type": "pageTitle",
+    "pageName": "Graph/Usage",
+    "category": "Components / Graph / Usage",
+    "url": "/components/graph/usage.html"
+  },
+  {
+    "text": "Code",
+    "type": "pageTitle",
+    "pageName": "Graph/Code",
+    "category": "Components / Graph / Code",
+    "url": "/components/graph/code.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Balance/Design",
+    "category": "Components / Balance / Design",
+    "url": "/components/balance/design.html#search-c53e32b0-c875-11ed-be71-e9fbd3323977"
+  },
+  {
+    "text": "Design",
+    "type": "pageTitle",
+    "pageName": "Balance/Design",
+    "category": "Components / Balance / Design",
+    "url": "/components/balance/design.html"
+  },
+  {
+    "text": "Usage",
+    "type": "pageTitle",
+    "pageName": "Balance/Usage",
+    "category": "Components / Balance / Usage",
+    "url": "/components/balance/usage.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Balance/Code",
+    "category": "Components / Balance / Code",
+    "url": "/components/balance/code.html#search-c453c0c0-c877-11ed-be71-e9fbd3323977"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Balance/Code",
+    "category": "Components / Balance / Code",
+    "url": "/components/balance/code.html#search-c56e3170-c877-11ed-be71-e9fbd3323977"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Balance/Code",
+    "category": "Components / Balance / Code",
+    "url": "/components/balance/code.html#search-c5842a70-c877-11ed-be71-e9fbd3323977"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Balance/Code",
+    "category": "Components / Balance / Code",
+    "url": "/components/balance/code.html#search-3aa891b0-c878-11ed-be71-e9fbd3323977"
+  },
+  {
+    "text": "import React, { StrictMode } from \"react\";\nimport { createRoot } from \"react-dom/client\";\nimport \"./styles.css\";\n\nimport App from \"./App\";\n\nconst root = createRoot(document.getElementById(\"root\"));\nroot.render(\n  <StrictMode>\n    <App />\n  </StrictMode>\n);",
+    "type": "contentBlock",
+    "pageName": "Balance/Code",
+    "category": "Components / Balance / Code",
+    "url": "/components/balance/code.html#search-3c7a1d60-c878-11ed-be71-e9fbd3323977"
+  },
+  {
+    "text": "body {\n  font-family: sans-serif;\n  -webkit-font-smoothing: auto;\n  -moz-font-smoothing: auto;\n  -moz-osx-font-smoothing: grayscale;\n  font-smoothing: auto;\n  text-rendering: optimizeLegibility;\n  font-smooth: always;\n  -webkit-tap-highlight-color: transparent;\n  -webkit-touch-callout: none;\n}\n\nh1 {\n  font-size: 1.5rem;\n}",
+    "type": "contentBlock",
+    "pageName": "Balance/Code",
+    "category": "Components / Balance / Code",
+    "url": "/components/balance/code.html#search-5500f430-c878-11ed-be71-e9fbd3323977"
+  },
+  {
+    "text": "Code",
+    "type": "pageTitle",
+    "pageName": "Balance/Code",
+    "category": "Components / Balance / Code",
+    "url": "/components/balance/code.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Upload File/Design",
+    "category": "Components / Upload File / Design",
+    "url": "/components/upload-file/design.html#search-fcccb060-ca2f-11ed-8488-ef8b1b2d416e"
+  },
+  {
+    "text": "Design",
+    "type": "pageTitle",
+    "pageName": "Upload File/Design",
+    "category": "Components / Upload File / Design",
+    "url": "/components/upload-file/design.html"
+  },
+  {
+    "text": "Usage",
+    "type": "pageTitle",
+    "pageName": "Upload File/Usage",
+    "category": "Components / Upload File / Usage",
+    "url": "/components/upload-file/usage.html"
+  },
+  {
+    "text": "Code",
+    "type": "pageTitle",
+    "pageName": "Upload File/Code",
+    "category": "Components / Upload File / Code",
+    "url": "/components/upload-file/code.html"
   },
   {
     "text": "Usage",
@@ -554,18 +820,11 @@
     "url": "/resources/design-tokens.html#search-1858ab20-51d9-11ec-9e6d-bdf95c8a8921"
   },
   {
-    "text": "",
+    "text": "/* Primary 500 */\n\n\nwidth: 96px;\nheight: 54px;\n\n/* Primary 500 */\n\nbackground: #D98C33;\n\n/* Inside auto layout */\n\nflex: none;\norder: 0;\nflex-grow: 0;\n\n/* Red 500 */\n\n\nwidth: 96px;\nheight: 54px;\n\n/* Red 500 */\n\nbackground: #FA5252;\n\n/* Inside auto layout */\n\nflex: none;\norder: 0;\nflex-grow: 0;\n\n/* Orange 500 */\n\n\nwidth: 96px;\nheight: 54px;\n\n/* Orange 500 */\n\nbackground: #FF922B;\n\n/* Inside auto layout */\n\nflex: none;\norder: 0;\nflex-grow: 0;\n\n/* Green 500 */\n\n\nwidth: 96px;\nheight: 54px;\n\n/* Green 500 */\n\nbackground: #51CF66;\n\n/* Inside auto layout */\n\nflex: none;\norder: 0;\nflex-grow: 0;",
     "type": "contentBlock",
     "pageName": "Design tokens",
     "category": "Resources / Design tokens",
     "url": "/resources/design-tokens.html#search-efc6ed80-4d40-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Design tokens",
-    "category": "Resources / Design tokens",
-    "url": "/resources/design-tokens.html#search-142a43b0-51d9-11ec-9e6d-bdf95c8a8921"
   },
   {
     "text": "Design tokens",
@@ -617,6 +876,13 @@
     "url": "/resources/tools-and-resources.html"
   },
   {
+    "text": "Release Notes",
+    "type": "pageTitle",
+    "pageName": "Release Notes",
+    "category": "Resources / Release Notes",
+    "url": "/resources/release-notes.html"
+  },
+  {
     "text": "Documentation Root",
     "type": "groupTitle",
     "pageName": "Documentation Root",
@@ -629,6 +895,13 @@
     "pageName": "Foundations",
     "category": "Foundations",
     "url": "/foundations/overview.html"
+  },
+  {
+    "text": "Iconography",
+    "type": "groupTitle",
+    "pageName": "Iconography",
+    "category": "Foundations / Iconography",
+    "url": "/foundations/iconography/alpha.html"
   },
   {
     "text": "Components",
@@ -645,25 +918,53 @@
     "url": "/components/button/design.html"
   },
   {
-    "text": "Embeddables",
+    "text": "Mobile Components",
     "type": "groupTitle",
-    "pageName": "Embeddables",
-    "category": "Embeddables",
-    "url": "/embeddables/balance-card/chart.html"
+    "pageName": "Mobile Components",
+    "category": "Components / Mobile Components",
+    "url": "/components/mobile-components/cards.html"
   },
   {
-    "text": "Balance Card",
+    "text": "Menu",
     "type": "groupTitle",
-    "pageName": "Balance Card",
-    "category": "Embeddables / Balance Card",
-    "url": "/embeddables/balance-card/chart.html"
+    "pageName": "Menu",
+    "category": "Components / Menu",
+    "url": "/components/menu/design.html"
   },
   {
-    "text": "Mobile App Components",
+    "text": "Badge",
     "type": "groupTitle",
-    "pageName": "Mobile App Components",
-    "category": "Embeddables / Mobile App Components",
-    "url": "/embeddables/mobile-app-components/card.html"
+    "pageName": "Badge",
+    "category": "Components / Badge",
+    "url": "/components/badge/design.html"
+  },
+  {
+    "text": "Form",
+    "type": "groupTitle",
+    "pageName": "Form",
+    "category": "Components / Form",
+    "url": "/components/form/design.html"
+  },
+  {
+    "text": "Graph",
+    "type": "groupTitle",
+    "pageName": "Graph",
+    "category": "Components / Graph",
+    "url": "/components/graph/design.html"
+  },
+  {
+    "text": "Balance",
+    "type": "groupTitle",
+    "pageName": "Balance",
+    "category": "Components / Balance",
+    "url": "/components/balance/design.html"
+  },
+  {
+    "text": "Upload File",
+    "type": "groupTitle",
+    "pageName": "Upload File",
+    "category": "Components / Upload File",
+    "url": "/components/upload-file/design.html"
   },
   {
     "text": "Resources",
